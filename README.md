@@ -26,8 +26,7 @@ Focused on research in embedded software design and development, utilizing edge 
 
 ## Education
 ### Ph.D. Candidate in Electrical and Computer Engineering
-*Ontario Tech University, Canada (Expected Graduation: Oct 2023)*
-- Supervisor: Dr. Akramul Azim
+*Ontario Tech University, Canada (2019 - 2023)*
 - Dissertation: Design and Development of Next Generation Software for Fog-enabled Embedded Systems
 - Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
 
