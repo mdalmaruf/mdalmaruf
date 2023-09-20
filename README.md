@@ -99,3 +99,6 @@ Focused on research in embedded software design and development, utilizing edge 
 - 📅 Worked on project SimpleSignUp, an **Event Management SaaS** (Ruby on Rails, MySQL)
 - 🩸 Created APIs for **Blood Donor Management System** (PHP, Laravel)
 - 🎁 Developed viigii, a **virtual gifting system for eCommerce platform** (Ruby on Rails)
+
+### OMC BSS Junior Engineer
+*Banglalink Digital Communications Limited (Jan 2014 - Mar 2014)
