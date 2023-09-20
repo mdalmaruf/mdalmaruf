@@ -40,33 +40,34 @@ Focused on research in embedded software design and development, utilizing edge 
 
 ## 💻 Skills
 
-### Programming Languages
-- C/C++
-- Python
-- Java
-- JavaScript
-- Ruby on Rails
-- PHP, Laravel
-- SQL, NoSQL
-- MATLAB/Simulink
+### 🛠️ **Programming Languages**
+- **C/C++**: ⭐⭐⭐⭐⭐
+- **Python**: ⭐⭐⭐⭐⭐
+- **Java**: ⭐⭐⭐⭐
+- **JavaScript**: ⭐⭐⭐⭐
+- **Ruby on Rails**: ⭐⭐⭐⭐
+- **PHP, Laravel**: ⭐⭐⭐⭐
+- **SQL, NoSQL**: ⭐⭐⭐⭐
+- **MATLAB/Simulink**: ⭐⭐⭐
 
-### Tools & Libraries
-- OpenMP
-- Visual Studio, Code Blocks
-- STM32CubeIDE
-- Eclipse/NetBeans
-- PhpStorm, Ruby Mine
-- Sci-kit Learn, Keras, TensorFlow
-- PyTorch, Rhapsody
+### 🧰 **Tools & Libraries**
+- **OpenMP**: ⭐⭐⭐⭐
+- **Visual Studio, Code Blocks**: ⭐⭐⭐⭐
+- **STM32CubeIDE**: ⭐⭐⭐⭐
+- **Eclipse/NetBeans**: ⭐⭐⭐
+- **PhpStorm, Ruby Mine**: ⭐⭐⭐
+- **Sci-kit Learn, Keras, TensorFlow**: ⭐⭐⭐⭐⭐
+- **PyTorch, Rhapsody**: ⭐⭐⭐⭐
 
-### Platforms
-- Linux/Ubuntu/FreeRTOS
-- Raspberry PI 3
-- STM32F411E-DISCO
-- Microsoft Azure
-- AWS
-- Kubernetes
-- Docker (containerization)
+### 💻 **Platforms**
+- **Linux/Ubuntu/FreeRTOS**: ⭐⭐⭐⭐⭐
+- **Raspberry PI 3**: ⭐⭐⭐⭐
+- **STM32F411E-DISCO**: ⭐⭐⭐
+- **Microsoft Azure**: ⭐⭐⭐⭐
+- **AWS**: ⭐⭐⭐⭐
+- **Kubernetes**: ⭐⭐⭐⭐
+- **Docker (containerization)**: ⭐⭐⭐⭐⭐
+
 
 ## 🏢 Employment
 
