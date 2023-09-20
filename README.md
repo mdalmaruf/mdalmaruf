@@ -101,4 +101,4 @@ Focused on research in embedded software design and development, utilizing edge 
 - 🎁 Developed viigii, a **virtual gifting system for eCommerce platform** (Ruby on Rails)
 
 ### OMC BSS Junior Engineer
-*Banglalink Digital Communications Limited (Jan 2014 - Mar 2014)
+*Banglalink Digital Communications Limited (Jan 2014 - Mar 2014)*
