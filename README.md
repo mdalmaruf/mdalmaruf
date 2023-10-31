@@ -76,7 +76,7 @@ Focused on research in embedded software design and development, utilizing edge 
 - 📚 **Member of RTEMSOFT Research Lab**
 - 🖥️ Engaged in research areas including **Edge-Accelerated ML model training**, Task Scheduling
 - 🚀 Contributed to the **HIL Test Bench** using CARLA simulator
-- 👨‍🏫 Served as a **Course TA** for Embedded Systems, Software Quality, OOP, Software Design & Architecture
+- 👨‍🏫 Served as a **Course TA** for Embedded Systems, Software Quality, OOP, Algorithm Design & Analysis, Software Design & Architecture
 - 💼 Designed and conducted labs for **Database Management Systems** (MySQL, NBA API, Flask)
 
 ### Research & Development Intern
