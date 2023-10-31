@@ -90,7 +90,7 @@ Focused on research in embedded software design and development, utilizing edge 
 
 ### Lecturer
 *Daffodil International University (2015 - 2017)*
-- 🏫 Taught courses such as **Data Structure, Programming (C/C++ & Java)**, Simulation and Modeling
+- 🏫 Taught courses such as **Data Structures & Algorithms, Programming (C/C++ & Java)**, Simulation and Modeling
 
 ### Junior Software Engineer
 *Nascenia IT (2014 - 2015)*
