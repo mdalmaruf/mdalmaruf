@@ -38,6 +38,15 @@ Focused on research in embedded software design and development, utilizing edge 
 *Islamic University of Technology (IUT), Bangladesh (2009 - 2013)*
 - Research Area: Cloud Computing
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/mdalmaruf/mdalmaruf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalmaruf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/mdalmaruf/mdalmaruf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdalmaruf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maruf's GitHub Stats" />
+</a>
+
 ## 💻 Skills
 
 ### 🛠️ **Programming Languages**
