@@ -24,7 +24,7 @@ Focused on research in embedded software design and development, utilizing edge 
 
 ## 🎓 Education
 
-### Ph.D. Candidate in Electrical and Computer Engineering
+### Ph.D. in Electrical and Computer Engineering
 *Ontario Tech University, Canada (2019 - 2023)*
 - Dissertation: Design and Development of Reusable Feature-based Next-Generation Embedded Software
 - Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
