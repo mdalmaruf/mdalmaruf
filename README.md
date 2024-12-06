@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdalmaruf.github.io-green)](https://mdalmaruf.github.io)
 
 ## Summary
-Focused on research in embedded software design and development, utilizing edge computing technologies to enhance machine learning model performance through model parallelism. Bringing extensive industry experience in web application development and spearheading research initiatives. Proficient in popular programming languages including C/C++, Python, Java, and Ruby on Rails. Ready to leverage my expertise in research and development to foster innovative projects.
+Focused on research in embedded software design and development, utilizing edge computing technologies to enhance machine learning model performance through model parallelism. Bringing extensive industry experience in web application development and spearheading research initiatives. Proficient in popular programming languages including C/C++, Python, Java, and Ruby on Rails. Ready to leverage my expertise in research and development to bring up innovative projects.
 
 ## 🎓 Education
 
