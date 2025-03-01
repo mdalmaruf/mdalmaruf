@@ -72,9 +72,14 @@ Focused on research in embedded software design and development, utilizing edge 
 
 
 ## 🏢 Employment
+### Incoming Assistant Professor
+*Algoma University (May 2015)
+
+### Teaching Professor
+*Durham College (Aug 2024 - Present)
 
 ### Teaching & Research Assistant
-*Ontario Tech University (2017 - Present)*
+*Ontario Tech University (2017 - 2023)*
 - 📚 **Member of RTEMSOFT Research Lab**
 - 🖥️ Engaged in research areas including **Edge-Accelerated ML model training**, Task Scheduling
 - 🚀 Contributed to the **HIL Test Bench** using CARLA simulator
