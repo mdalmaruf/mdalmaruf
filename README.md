@@ -1,120 +1,71 @@
-###  😄 👋
-
-<!--
-**mdalmaruf/mdalmaruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Md Al Maruf
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-almaruf09-blue)](https://www.linkedin.com/in/almaruf09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mdalmaruf.github.io-green)](https://mdalmaruf.github.io)
 
-## Summary
-Focused on research in embedded software design and development, utilizing edge computing technologies to enhance machine learning model performance through model parallelism. Bringing extensive industry experience in web application development and spearheading research initiatives. Proficient in popular programming languages including C/C++, Python, Java, and Ruby on Rails. Ready to leverage my expertise in research and development to bring up innovative projects.
+**Assistant Professor of Computer Science and Mathematics at Algoma University**<br>
+Principal Investigator, [Next-generation Embedded Systems Research Lab (NEST)](https://nestresearchlab.ca/)
 
-## 🎓 Education
+[![Website](https://img.shields.io/badge/Website-mdalmaruf.github.io-0A66C2)](https://mdalmaruf.github.io/)
+[![NEST Research Lab](https://img.shields.io/badge/Research-NEST_Lab-176B87)](https://nestresearchlab.ca/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Google_Scholar-4285F4)](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-almaruf09-0A66C2)](https://www.linkedin.com/in/almaruf09/)
 
-### Ph.D. in Electrical and Computer Engineering
-*Ontario Tech University, Canada (2019 - 2023)*
-- Dissertation: Design and Development of Reusable Feature-based Next-Generation Embedded Software
-- Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
+## About
 
-### MASc. in Electrical and Computer Engineering
-*Ontario Tech University, Canada (2017 - 2019)*
-- Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems
-- Research Area: Task Scheduling, Parallel Computing, and Embedded Systems
+I am an Assistant Professor at Algoma University working at the intersection of embedded software engineering, edge artificial intelligence, autonomous systems, and dependable cyber-physical systems. My research develops hardware-aware software methods, experimental testbeds, and hardware-in-the-loop techniques for intelligent systems operating under real-world timing, reliability, energy, and safety constraints.
 
-### B.Sc. in Computer Science and Engineering
-*Islamic University of Technology (IUT), Bangladesh (2009 - 2013)*
-- Research Area: Cloud Computing
+I received my PhD and MASc in Electrical and Computer Engineering from Ontario Tech University. My work on FeaMod received the IEEE IRI 2024 Best Paper Award.
 
+## Research interests
 
+- Embedded and cyber-physical systems
+- Edge AI, distributed models, and parallel computing
+- Autonomous systems and hardware-in-the-loop testing
+- Embedded software reuse, feature modeling, and DevOps
+- Dependability, anomaly detection, and safety-critical software
+- Edge/fog computing and over-the-air software updates
 
-## 💻 Skills
+## Selected current work
 
-### 🛠️ **Programming Languages**
-- **C/C++**: ⭐⭐⭐⭐⭐
-- **Python**: ⭐⭐⭐⭐⭐
-- **Java**: ⭐⭐⭐⭐
-- **JavaScript**: ⭐⭐⭐⭐
-- **Ruby on Rails**: ⭐⭐⭐⭐
-- **PHP, Laravel**: ⭐⭐⭐⭐
-- **SQL, NoSQL**: ⭐⭐⭐⭐⭐
-- **MATLAB/Simulink**: ⭐⭐⭐
+- **UAV Autonomy and Health Monitoring:** LLM-assisted parameter mapping, real-time fault detection, and safety-aware deployment for unmanned aerial platforms.
+- **Intelligent Grid and BESS Integration:** embedded optimization, real-time analytics, and digital-twin methods for resilient energy infrastructure.
+- **ESOps:** an AI-driven embedded DevOps pipeline connecting feature discovery, testing, hardware-aware delivery, and assurance.
+- **FeaMod:** automated feature-model extraction for modularity, adaptability, and software reuse in legacy embedded systems.
 
-### 🧰 **Tools & Libraries**
-- **OpenMP**: ⭐⭐⭐⭐⭐
-- **Visual Studio, Code Blocks**: ⭐⭐⭐⭐⭐
-- **STM32CubeIDE**: ⭐⭐⭐
-- **Eclipse/NetBeans**: ⭐⭐⭐⭐
-- **PhpStorm, Ruby Mine**: ⭐⭐⭐⭐
-- **Sci-kit Learn, Keras, TensorFlow**: ⭐⭐⭐⭐⭐
-- **PyTorch, Rhapsody**: ⭐⭐⭐⭐
+See additional work on my [project portfolio](https://mdalmaruf.github.io/portfolio/) and the [NEST Research Lab project page](https://nestresearchlab.ca/projects).
 
-### 💻 **Platforms**
-- **Linux/Ubuntu/FreeRTOS**: ⭐⭐⭐⭐⭐
-- **Raspberry PI 3**: ⭐⭐⭐⭐⭐
-- **STM32F411E-DISCO**: ⭐⭐⭐
-- **Microsoft Azure**: ⭐⭐⭐⭐
-- **AWS**: ⭐⭐⭐
-- **Kubernetes**: ⭐⭐⭐
-- **Docker (containerization)**: ⭐⭐⭐
+## Technical profile
 
+- **Programming:** C/C++, Python, Java, SQL, JavaScript, MATLAB/Simulink
+- **Machine learning and parallel computing:** PyTorch, TensorFlow, scikit-learn, OpenMP, CUDA, model parallelism
+- **Embedded and systems:** Linux, FreeRTOS, STM32, Raspberry Pi, CAN, QEMU, hardware-in-the-loop testing
+- **Cloud and delivery:** Docker, Kubernetes, Microsoft Azure, AWS, CI/CD
 
-## 🏢 Employment
-### Incoming Assistant Professor
-*Algoma University (May 2015)
+## Education
 
-### Teaching Professor
-*Durham College (Aug 2024 - Present)
+- **PhD, Electrical and Computer Engineering**, Ontario Tech University, 2023<br>
+  Dissertation: *Design and Development of Reusable Feature-based Next-Generation Embedded Software*
+- **MASc, Electrical and Computer Engineering**, Ontario Tech University, 2019<br>
+  Thesis: *Design Automation and QoS Requirements Preservation for Multiprocessor Embedded Systems*
+- **BSc, Computer Science and Engineering**, Islamic University of Technology, 2013
 
-### Teaching & Research Assistant
-*Ontario Tech University (2017 - 2023)*
-- 📚 **Member of RTEMSOFT Research Lab**
-- 🖥️ Engaged in research areas including **Edge-Accelerated ML model training**, Task Scheduling
-- 🚀 Contributed to the **HIL Test Bench** using CARLA simulator
-- 👨‍🏫 Served as a **Course TA** for Embedded Systems, Software Quality, OOP, Algorithm Design & Analysis, Software Design & Architecture
-- 💼 Designed and conducted labs for **Database Management Systems** (MySQL, NBA API, Flask)
+## Academic and professional experience
 
-### Research & Development Intern
-*Mobile Innovations Corporations (2021)*
-- 💻 **EPNB Application Development** using Microsoft Azure and ASP.NET (C#)
-- 🖌️ Developed Fillable Templates and **Forms Design Application** using JavaScript
+- **Assistant Professor**, Algoma University, 2025-present
+- **Teaching Professor**, Durham College, 2024-2025
+- **Sessional Lecturer**, Ontario Tech University, 2024
+- **Research Associate**, IBM Centre for Advanced Studies at Ontario Tech University, 2023
+- **Graduate Research and Teaching Assistant**, Ontario Tech University, 2017-2023
+- **Lecturer**, Daffodil International University, 2015-2017
+- Earlier software engineering experience at Nascenia IT, Mobile Innovations Corporation, and QA Consultants
 
-### Research Collaborator
-*QA Consultants (2020)*
-- 📊 **Analyzed Controlled Area Network** (CAN) using OMNET++, Python QT5, Sqlite3
+## Selected recognition
 
-### Lecturer
-*Daffodil International University (2015 - 2017)*
-- 🏫 Taught courses such as **Data Structures & Algorithms, Programming (C/C++ & Java)**, Simulation and Modeling
+- Best Paper Award, IEEE IRI, 2024
+- SIGBED Student Travel Grant, CPS-IoT Week, 2023
+- Ontario Graduate Scholarship, 2022
+- Mitacs Research Training Award, 2020
 
-### Junior Software Engineer
-*Nascenia IT (2014 - 2015)*
-- 🌐 Worked on developing a **Travel Management Platform** named WellTravel using Ruby on Rails
-- 🛠️ Technologies used: Ruby on Rails 4.1, PostgreSQL, Sidekiq, Apache Server, Semaphore, SoapUI
-- 📅 Worked on project SimpleSignUp, an **Event Management SaaS** (Ruby on Rails, MySQL)
-- 🩸 Created APIs for **Blood Donor Management System** (PHP, Laravel)
-- 🎁 Developed viigii, a **virtual gifting system for eCommerce platform** (Ruby on Rails)
+## Contact
 
-### OMC BSS Junior Engineer
-*Banglalink Digital Communications Limited (Jan 2014 - Mar 2014)*
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/mdalmaruf/mdalmaruf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalmaruf&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<!-- <a href="https://github.com/mdalmaruf/mdalmaruf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdalmaruf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maruf's GitHub Stats" /> -->
-</a>
+- Email: [md.maruf@algomau.ca](mailto:md.maruf@algomau.ca)
+- Publications: [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
+- Personal website: [mdalmaruf.github.io](https://mdalmaruf.github.io/)
